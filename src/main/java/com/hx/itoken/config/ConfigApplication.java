@@ -1,4 +1,4 @@
-package config;
+package com.hx.itoken.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 /**
  * @author jxlgcmh
- * @date 2019-07-28 00:33
+ * @date 2019-07-28 10:10
  */
 @SpringBootApplication
 @EnableConfigServer
